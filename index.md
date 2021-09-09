@@ -31,7 +31,7 @@ Problem Optimization...
 
 ## Education
 
-* Bachillerato in IES Padre Suárez
+* Bachillerato @ IES Padre Suárez
 * (Half of) Computer Engineering @ UGR
 
 
