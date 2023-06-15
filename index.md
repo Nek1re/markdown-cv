@@ -26,7 +26,7 @@ Programming, Googling
 
 ### Research interests
 
-Problem Optimization...
+Problem Optimization, Game Development
 
 
 ## Education
@@ -52,4 +52,4 @@ Problem Optimization...
 
 <!-- ### Footer
 
-Last updated: September 2021 -->
+Last updated: October 2021 -->
